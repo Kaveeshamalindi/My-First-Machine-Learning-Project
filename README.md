@@ -1,4 +1,4 @@
-# My First ML Project
+# My First Machine Learning Project
 
 This is a simple Machine Learning project that predicts the species of the Iris flower based on its features using Python.
 
